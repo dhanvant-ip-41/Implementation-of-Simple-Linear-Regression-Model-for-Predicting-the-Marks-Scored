@@ -79,21 +79,21 @@ print("R0ot Mean Square Error = ",rmse)
 
 ## Output:
 ### Data Frame 
-![alt text](image.png)
+![alt text](/images/image.png)
 ### Head Values
-![alt text](image-2.png)
+![alt text](/images/image-2.png)
 ### Tail Values
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 ### X and Y values
-![alt text](image-8.png)
+![alt text](/images/image-8.png)
 ### Predicted Y and Test Y values
-![alt text](image-4.png)
+![alt text](/images/image-4.png)
 ### Training Set Graph
-![alt text](image-5.png)
+![alt text](/images/image-5.png)
 ### Test Set Graph
-![alt text](image-6.png)
+![alt text](/images/image-6.png)
 ### MSE, MAE AND RMSE
-![alt text](image-9.png)
+![alt text](/images/image-9.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
